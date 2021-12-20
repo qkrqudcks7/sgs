@@ -26,6 +26,20 @@
 
 <hr>
 
+### Front 개발 환경
+
+HTML 5
+css
+JavaScript(Es6)
+Vue.js
+
+
+### Back 개발 환경
+
+java 11
+gradle
+spring-boot 2.6.1
+
 
 아키텍쳐
 

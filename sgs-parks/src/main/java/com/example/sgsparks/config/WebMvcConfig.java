@@ -9,11 +9,6 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 @Configuration
 @RequiredArgsConstructor
 public class WebMvcConfig implements WebMvcConfigurer {
-    private final TokenInterceptor tokenInterceptor;
-
-    public void addInterceptor(InterceptorRegistry interceptorRegistry) {
-        interceptorRegistry.addInterceptor(tokenInterceptor).addPathPatterns("/message");
-    }
 
 //    @Override
 //    public void addCorsMappings(CorsRegistry registry) {

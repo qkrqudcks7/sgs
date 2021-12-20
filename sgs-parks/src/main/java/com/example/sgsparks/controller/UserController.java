@@ -20,18 +20,19 @@ public class UserController {
     private final UserService userService;
     private final SecurityService securityService;
 
+    // 연습 api
     @CheckToken
     @GetMapping("/message")
     public String getMessage() {
         return userService.getMessage();
     }
 
-    @GetMapping("/check")
-    public ResponseEntity checkToken(@RequestParam("token") String token) {
-        Claims claims = securityService.checkToken(token);
-
-        return ResponseEntity.status(HttpStatus.OK).body(claims);
-    }
+//    @GetMapping("/check")
+//    public ResponseEntity checkToken(@RequestParam("token") String token) {
+//        Claims claims = securityService.checkToken(token);
+//
+//        return ResponseEntity.status(HttpStatus.OK).body(claims);
+//    }
 
     @PostMapping("/signin")
     public ResponseEntity<MyToken> login(@RequestBody SignInRequest signInRequest) {

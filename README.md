@@ -4,6 +4,28 @@
 
 <hr>
 
+메인 페이지 ✅
+
+- 사용자 DB 설계 ✅
+
+- 가입 로그인 페이지 ✅
+
+- 인증 서버(API) ✅
+
+- RDBMS DB사용(MySQL) ✅
+
+- Password Encryption ✅
+
+- 유저 관리 페이지 ✅
+
+- E-Mail 인증 ✅
+
+- 비밀번호 찾기 ✅
+
+- 캐시(Redis) ✅
+
+<hr>
+
 
 아키텍쳐
 

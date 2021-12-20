@@ -28,19 +28,24 @@
 
 ### Front 개발 환경
 
-HTML 5
-css
-JavaScript(Es6)
-Vue.js
+- HTML 5
+
+- css
+
+- JavaScript(Es6)
+
+- Vue.js
 
 
 ### Back 개발 환경
 
-java 11
-gradle
-spring-boot 2.6.1
+- java 11
 
-### DB
+- gradle
+
+- spring-boot 2.6.1
+
+### DB(MySQL)
 ![image](https://user-images.githubusercontent.com/66015002/146741560-a70db665-bd1b-4f21-be48-c6997968dbeb.png)
 
 

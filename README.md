@@ -49,3 +49,9 @@ spring-boot 2.6.1
 ## 아키텍쳐
 
 ![image](https://user-images.githubusercontent.com/66015002/146740098-b10fea6e-fa54-4d7f-af60-858c51e652a4.png)
+
+
+<hr>
+
+![image](https://user-images.githubusercontent.com/66015002/146742221-e40b8623-7074-4deb-a28f-07c5c14a5dd2.png)
+

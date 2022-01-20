@@ -11,7 +11,7 @@ const RESTCALL = axios.create({
 
 RESTCALL.interceptors.request.use(
     function (config) {
-        let authInfo = store.getters["account/authToken"]
+        let authInfo = store.getters["  qa                                                                                                      account/authToken"]
 
         if (authInfo) {
             config.headers.authorization = authInfo

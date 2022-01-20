@@ -1,4 +1,4 @@
-# SGS-Parks Auth서버
+# SGS-authentication-system
 
 <hr>
 

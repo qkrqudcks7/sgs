@@ -49,6 +49,8 @@
 
 - spring-boot 2.6.1
 
+<hr>
+
 ### DB(MySQL)
 ![image](https://user-images.githubusercontent.com/66015002/146741560-a70db665-bd1b-4f21-be48-c6997968dbeb.png)
 

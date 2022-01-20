@@ -1,4 +1,10 @@
 # SGS-authentication-system
+<hr>
+
+## sgs - 개인 프로젝트
+
+- 마이크로 서비스 아키텍처로 인증서버 만들기!
+- spring security 사용하지 않기!
 
 <hr>
 

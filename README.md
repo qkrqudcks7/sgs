@@ -1,5 +1,5 @@
 # SGS-authentication-system
-<hr>
+
 
 ## sgs - 개인 프로젝트
 
